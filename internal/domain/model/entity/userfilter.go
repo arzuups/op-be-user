@@ -34,7 +34,6 @@ type UserFilter struct {
 
 // NewUserFilter creates a new *UserFilter.
 func NewUserFilter(id uuid.UUID,
-	compnayId uuid.UUID,
 	userName string,
 	email string,
 	userType mo.UserType,

@@ -20,6 +20,11 @@
 # Go workspace file
 go.work
 
+
+# Go module files
+go.mod
+go.sum
+
 # ignore local environment variable file
 .env
 
